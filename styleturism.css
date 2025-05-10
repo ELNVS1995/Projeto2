@@ -2,21 +2,14 @@
 body {
 background-size: cover;
 background-color: #29292E; /* Fundo escuro */
-margin: 0;
-padding: 0;
 }
 
 #page {
 width: 1120px;
-margin: 112px auto;
+margin: 80px auto;
 background-color: #F9F8F4; /* Fundo claro da caixa */
-width: 1120px;
-margin: 40px auto; /* Centraliza com margem */
-padding: 40px;
+padding: 112px 80px;
 }
-}
-
-
 
 #Divisor {
   border: none; 
