@@ -1,0 +1,26 @@
+
+body {
+background-size: cover;
+background-color: #29292E; /* Fundo escuro */
+margin: 0;
+padding: 0;
+}
+
+#page {
+width: 1120px;
+margin: 112px auto;
+background-color: #F9F8F4; /* Fundo claro da caixa */
+width: 1120px;
+margin: 40px auto; /* Centraliza com margem */
+padding: 40px;
+}
+}
+
+
+
+#Divisor {
+  border: none; 
+  border-top: 1px solid #e0e0e0; 
+  margin: 20px 0;
+  width: 1120px;
+}
