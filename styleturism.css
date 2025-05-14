@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 :root {
   font-family: "Open Sans", sans-serif;
   line-height: auto;
@@ -7,35 +12,93 @@ h1 {
   font-size: 36px;
   font-weight: bold;
   color: #1B1B1B;
+  margin-bottom: 40px;
+}
+
+#Ponte {
+  margin-bottom: 24px;
 }
 
 h2 {
   font-size: 32px;
   font-weight: bold;
   color: #1B1B1B;
+  margin-bottom: 8px;
 }
 
 h3 {
   font-size: 28px;
   font-weight: bold;
   color: #1B1B1B;
+  margin-bottom: 4px;
 }
 
-.headline {
+#headline1 {
   font-size: 16px;
   font-weight: bold;
   color: #E1624F;
+  margin-bottom: 8px;
 }
 
-p {
+#headline2 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #E1624F;
+  margin-bottom: 2px;
+}
+
+#p1 {
   font-size: 16px;
   font-style: normal;
   color: #333333;
+  margin-bottom: 64px;
+}
+
+#Montanha {
+  margin-bottom: 20px;
+}
+
+#p2 {
+  font-size: 16px;
+  font-style: normal;
+  color: #333333;
+  margin-bottom: 48px;
+}
+
+#Templo {
+  margin-bottom: 20px;
+}
+
+#p3 {
+  font-size: 16px;
+  font-style: normal;
+  color: #333333;
+  margin-bottom: 48px;
+}
+
+#p4 {
+  font-size: 16px;
+  font-style: normal;
+  color: #333333;
+  margin-bottom: 40px;
+}
+
+#Arvores {
+  margin-bottom: 20px;
+}
+
+#p5 {
+  font-size: 16px;
+  font-style: normal;
+  color: #333333;
+  margin-bottom: 41px;
 }
 
 #subtitle {
   font-size: 16px;
   font-style: italic;
+  margin-bottom: 44px;
+  color: #333333;
 }
 
 .destaque {
@@ -74,9 +137,32 @@ background-color: #F9F8F4; /* Fundo claro da caixa */
 padding: 112px 80px;
 }
 
-#Divisor {
+#Divisor1 {
   border: none; 
-  border-top: 1px solid #e0e0e0; 
+  border-top: 1px solid #D9D9D9; 
   margin: 20px 0;
   width: 1120px;
+  margin-bottom: 64px;
+}
+
+#Divisor2 {
+  border: none; 
+  border-top: 1px solid #D9D9D9; 
+  margin: 20px 0;
+  width: 1120px;
+  margin-bottom: 40px;
+}
+
+footer {
+  text-align: center;
+  padding: 16px;
+  background-color: #f9f8f6; /* ou a mesma cor do fundo principal */
+  color: #333333;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+
+footer img {
+  vertical-align: middle;
+  margin: 0 4px;
 }
