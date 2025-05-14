@@ -92,6 +92,7 @@ h3 {
   font-style: normal;
   color: #333333;
   margin-bottom: 41px;
+  text-align: center;
 }
 
 #subtitle {
@@ -99,6 +100,7 @@ h3 {
   font-style: italic;
   margin-bottom: 44px;
   color: #333333;
+  text-align: center;
 }
 
 .destaque {
@@ -131,7 +133,8 @@ background-color: #29292E; /* Fundo escuro */
 }
 
 #page {
-width: 1120px;
+max-width: 1120px;
+width: 90%;
 margin: 80px auto;
 background-color: #F9F8F4; /* Fundo claro da caixa */
 padding: 112px 80px;
